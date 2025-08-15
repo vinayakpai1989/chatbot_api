@@ -56,8 +56,14 @@ async def receive_whatsapp_message(request: Request):
             from_number = messages[0]["from"]  # Customer's WhatsApp number
             msg_body = messages[0]["text"]["body"]  # Message text
 
+            print("from_number:", from_number)
+
+            print("msg_body:", msg_body)
+
             # Call your chatbot function
             reply_text = chat(msg_body, history=[])
+
+            print("reply_text:", reply_text)
 
             # Send reply to WhatsApp using Graph API
             url = f"https://graph.facebook.com/v16.0/{PHONE_NUMBER_ID}/messages"
@@ -70,7 +76,8 @@ async def receive_whatsapp_message(request: Request):
                 "to": from_number,
                 "text": {"body": reply_text}
             }
-            requests.post(url, json=payload, headers=headers)
+            resp = requests.post(url, json=payload, headers=headers)
+            print("Graph API response:", resp.status_code, resp.text)
 
     except Exception as e:
         print("Error processing message:", e)
