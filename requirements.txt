@@ -3,3 +3,4 @@ uvicorn
 openai
 pypdf
 gradio
+python-dotenv
