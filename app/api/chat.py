@@ -6,7 +6,7 @@ from typing import List, Any
 import requests
 import os
 
-VERIFY_TOKEN = "verifyToken@12345@"
+VERIFY_TOKEN = os.getenv("META_WEBHOOK_VERIFY_TOKEN")
 ACCESS_TOKEN = os.getenv("META_ACCESS_TOKEN")  # WhatsApp Cloud API permanent access token
 PHONE_NUMBER_ID = os.getenv("PHONE_NUMBER_ID")  # Your business phone number ID from Meta
 
@@ -46,7 +46,6 @@ async def receive_whatsapp_message(request: Request):
     Receives WhatsApp messages from Meta and replies using the chat() function.
     """
     data = await request.json()
-    print("Incoming data:", data)
     try:
         # Extract the incoming message
         entry = data["entry"][0]["changes"][0]["value"]
@@ -56,15 +55,8 @@ async def receive_whatsapp_message(request: Request):
             from_number = messages[0]["from"]  # Customer's WhatsApp number
             msg_body = messages[0]["text"]["body"]  # Message text
 
-            print("from_number:", from_number)
-
-            print("msg_body:", msg_body)
-
             # Call your chatbot function
             reply_text = chat(msg_body, history=[])
-
-            print("reply_text:", reply_text)
-
             # Send reply to WhatsApp using Graph API
             url = f"https://graph.facebook.com/v16.0/{PHONE_NUMBER_ID}/messages"
             headers = {
@@ -77,8 +69,6 @@ async def receive_whatsapp_message(request: Request):
                 "text": {"body": reply_text}
             }
             resp = requests.post(url, json=payload, headers=headers)
-            print("Graph API response:", resp.status_code, resp.text)
-
     except Exception as e:
         print("Error processing message:", e)
 
