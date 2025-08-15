@@ -1,0 +1,178 @@
+Name of my business is XYZ Fitness. our slogan is Train Hard, Live Strong
+
+Following is the ad tag line -  Get fit. Stay strong. Feel amazing. XYZ Fitness offers a variety of high-energy workouts, state-of-the-art facilities, and personalized training guidance. Chat with us anytime to find the perfect workout or get answers fast!
+
+About Us - XYZ Fitness is dedicated to helping you achieve your health and fitness goals. Our state-of-the-art facility offers a variety of workout programs, experienced trainers, and a welcoming atmosphere for all fitness levels. Whether you're a beginner or a seasoned athlete, we have something for everyone.At XYZ Fitness, we’re not just a fitness center—we’re a movement toward better living. Whether you’re starting your journey or reaching new milestones, we’re here to support you every step of the way.
+
+Mission - To inspire and empower individuals to lead healthier, happier lives through inclusive, innovative, and results-driven fitness experiences.
+
+Values - We believe in integrity, community, passion, innovation, and empowerment—guiding everything we do to create a positive and transformative fitness experience.
+
+COMMITMENT - We’re committed to delivering a high-energy, supportive, and safe environment for all. From expert trainers and tailored programs to around-the-clock support via our intelligent chatbot, XYZ Fitness is your reliable partner in transformation.
+
+Following are the different set of workouts we offers
+
+1) Strength - Our Strength sessions focus on resistance training, bodyweight exercises, and progressive overload to sculpt lean muscle and boost your metabolism. Ideal for anyone looking to get stronger, fitter, and more defined.
+
+2) HRX - Inspired by Bollywood superstar Hrithik Roshan, HRX is a high-energy fusion of functional training and combat moves. Burn calories, challenge your limits, and walk out feeling unstoppable.
+
+3) Dance - Dance your way to fitness with dynamic, choreographed routines set to upbeat music. It’s a full-body cardio workout disguised as pure fun—perfect for all levels and ages!.
+
+4) Burn - Short on time? Our Burn sessions are HIIT-style workouts designed to ignite fat loss and keep your heart pumping. Get maximum results in minimum time with high-impact, full-body exercises.
+
+5) Yoga - Reconnect with yourself through calming flows and mindful movements. Our yoga classes improve flexibility, relieve stress, and bring inner peace—whether you’re a beginner or an advanced yogi.
+
+6) Boxing Bag - Strike, jab, and sweat it out! Our Boxing Bag workouts combine boxing drills with intense cardio, building strength, coordination, and endurance. No opponent—just you versus the bag.
+
+Following are the weekly schedules for the different workouts
+
+  <table class="schedule-table" border="1" cellpadding="6" style="border-collapse:collapse; min-width:900px;">
+                <thead>
+                    <tr>
+                        <th>Day / Time</th>
+                        <th>6am - 7am</th>
+                        <th>7am - 8am</th>
+                        <th>8am - 9am</th>
+                        <th>9am - 10am</th>
+                        <th>5pm - 6pm</th>
+                        <th>6pm - 7pm</th>
+                        <th>7pm - 8pm</th>
+                        <th>8pm - 9pm</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Monday</td>
+                        <td>Strength</td>
+                        <td>HRX</td>
+                        <td>Boxing Bag</td>
+                        <td>Dance</td>
+                        <td>Yoga</td>
+                        <td>Burn</td>
+                        <td>HRX</td>
+                        <td>Strength</td>
+                    </tr>
+                    <tr>
+                        <td>Tuesday</td>
+                        <td>Dance</td>
+                        <td>Burn</td>
+                        <td>HRX</td>
+                        <td>Yoga</td>
+                        <td>Strength</td>
+                        <td>Boxing Bag</td>
+                        <td>Yoga</td>
+                        <td>Strength</td>
+                    </tr>
+                    <tr>
+                        <td>Wednesday</td>
+                        <td>Yoga</td>
+                        <td>Boxing Bag</td>
+                        <td>HRX</td>
+                        <td>Strength</td>
+                        <td>Dance</td>
+                        <td>HRX</td>
+                        <td>Yoga</td>
+                        <td>Dance</td>
+                    </tr>
+                    <tr>
+                        <td>Thursday</td>
+                        <td>HRX</td>
+                        <td>Dance</td>
+                        <td>Strength</td>
+                        <td>Burn</td>
+                        <td>Boxing Bag</td>
+                        <td>Yoga</td>
+                        <td>HRX</td>
+                        <td>Boxing Bag</td>
+                    </tr>
+                    <tr>
+                        <td>Friday</td>
+                        <td>Strength</td>
+                        <td>Burn</td>
+                        <td>Dance</td>
+                        <td>Yoga</td>
+                        <td>HRX</td>
+                        <td>Boxing Bag</td>
+                        <td>Strength</td>
+                        <td>HRX</td>
+                    </tr>
+                    <tr>
+                        <td>Saturday</td>
+                        <td>Yoga</td>
+                        <td>Boxing Bag</td>
+                        <td>Dance</td>
+                        <td>Strength</td>
+                        <td>Burn</td>
+                        <td>HRX</td>
+                        <td>Yoga</td>
+                        <td>Dance</td>
+                    </tr>
+                    <tr>
+                        <td>Sunday</td>
+                        <td colspan="17" style="text-align:center;">Rest & Recovery</td>
+                    </tr>
+                </tbody>
+            </table>
+			
+Following are the FAQ's of our business
+
+Question: Do I need prior experience to join?
+
+Answer - No, our programs are designed for all levels. Our trainers will guide you every step of the way.
+
+Question: What are your membership plans?
+
+Answer - We offer monthly, quarterly, and annual plans. Contact us for details.
+
+Question:  Can I try a class before joining?
+
+Answer - Yes! We offer trial classes for new members.
+
+Question: What should I bring to my first workout?
+
+Answer - Just bring comfortable workout clothes, a water bottle, and a towel. We provide all necessary equipment.
+
+Question: Are personal training sessions available?
+
+Answer - Yes, we offer one-on-one personal training sessions tailored to your goals. Ask our staff for more information.
+
+Question: Is there parking available at the facility?
+
+Answer - Yes, we have ample free parking for all members and guests.
+
+Question: Can I freeze or pause my membership?
+
+Answer - Absolutely! You can freeze your membership for up to 2 months per year. Contact our front desk for details.
+
+Question: Do you offer nutrition or diet guidance?
+
+Answer - Yes, our trainers can provide basic nutrition tips and we have certified nutritionists available for consultations.
+
+Question: Are there any women-only classes?
+
+Answer - Yes, we offer several women-only classes each week. Check our schedule or ask our staff for timings.
+
+Question: How do I book a class or session?
+
+Answer - You can book classes through our website, mobile app, or by calling our front desk.
+
+Following are the Testimonials provided by our customers
+
+1. "XYZ Fitness changed my life! The trainers are amazing and the workouts are fun." - Priya S.
+
+2. "A great place to get fit and make friends. Highly recommend!"  - Rahul M.
+
+3. "The variety of workouts keeps me motivated every day." - Sneha K.
+
+Following are our Contact Details
+
+Address: 2nd Cross, Near City Mall, Manglore, Karnataka 575003
+
+Phone:  +91 9964245887
+
+Email : vinayakpai1989@gmail.com
+
+Opening Office Hours: Mon–Sat: 6am – 10pm, Sun: 8am – 6pm
+
+Following is our copyright: 2025 XYZ Fitness. Made with <span style="color:#ff3c7e;font-size:1.2em;">&#10084;&#65039;</span> in India
+
