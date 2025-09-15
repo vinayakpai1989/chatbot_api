@@ -2,7 +2,7 @@ from fastapi import APIRouter,Request
 from app.models.chat import ChatRequest, ChatResponse
 from app.services.chatbot import chat
 from pydantic import BaseModel
-from typing import List, Any
+from typing import List, Any, Optional
 import requests
 import os
 
@@ -19,11 +19,12 @@ class HistoryItem(BaseModel):
 class ChatRequest(BaseModel):
     message: str
     history: List[HistoryItem] = []
+    type: Optional[int] = None
 
 @router.post("/chat")
 def chat_endpoint(request: ChatRequest):
     history = [item.dict() for item in request.history]
-    return {"reply": chat(request.message, history)}
+    return {"reply": chat(request.message, history, request.type)}
 
 @router.get("/webhook")
 async def verify_webhook(request: Request):
