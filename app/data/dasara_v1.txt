@@ -1,0 +1,268 @@
+
+This year, Navaratri starts from September 22 and ends on October 2. Dasara is on October 2.
+
+FAQ :
+
+Question 1:  what is the history of Mangaluru Dasara :
+Answer : Mangaluru Dasara is a grand celebration that began in the early 20th century and has since grown into one of the most famous festivals of coastal Karnataka. The Kudroli Gokarnanatha Temple, renovated under the guidance of social reformer Narayana Guru in 1912, became a central hub for the festivities. Over the years, the celebrations expanded with processions, tiger dance (Pili Vesha), cultural programs, and beautifully decorated tableaux.
+
+Today, Mangaluru Dasara is known as the “Navaratri of Coastal Karnataka,” drawing thousands of devotees and tourists, while symbolizing unity, devotion, and cultural pride.
+
+Question 2: Are there tableaux/processions during the festival?
+
+Answer : Yes, tableaux and grand processions are a major highlight of Mangaluru Dasara. On Vijayadashami, beautifully decorated tableaux representing mythological and cultural themes parade through the city, accompanied by traditional music, tiger dance (Pili Vesha), and large gatherings of devotees and visitors.
+
+Question 3: Who organizes Mangaluru Dasara?
+
+Answer : Mangaluru Dasara is primarily organized by the Kudroli Gokarnanatha Temple, with active participation from devotees, volunteers, and local cultural groups. The celebrations have grown over the years with support from the community, making it one of the biggest festivals in coastal Karnataka.
+
+
+Question 4: Why is the festival celebrated?
+
+Answer : Mangaluru Dasara is celebrated as part of Navaratri, a festival dedicated to Goddess Durga and her nine forms. It symbolizes the victory of good over evil and is marked by devotion, cultural programs, tiger dances, and grand processions that bring the community together
+
+
+
+Following are the events and activities happening in the temple during Navratri
+
+1.Kudroli Sri Gokarnanatha Kshetra
+
+    -> Navarathri Utsav and Mangaluru Dasara 2025 will be celebrated from 22nd September 2025 upto October 2, 2025
+    -> Nava Durga and Sharada Prathistapana is on September 22, 2025 and starts at 12.00 noon
+    -> Vijay Dashami Shobha Yathre (Procession) is on October 2, 2025
+    -> This year several events are organized. The events and dates are as follows
+        -> Makkala Dasara (Childrens Dasara) - September 28, 2025
+        -> Bahu Basha Kavigosti - September 23, 2025
+        -> Muddu Sharade Competition - September 24, 2025
+        -> Bhakti Geet Competition (Devotional Singing Contest) - September 28, 2025
+        -> Dasara Marathon - September 28, 2025
+        -> Rudra Thandavam Dance Competition - September 24, 2025
+        -> Mr Mangaluru Body Building Competition - September 26, 2025
+        -> Drawing Competition - September 28, 2025
+        -> Kinni Pili Competition - September 28, 2025
+        -> Dasara Kavana Competition (Dasara Poetry Competition) - September 23, 2025
+
+    Address : Kudroli, Kodailbail, Mangaluru, Karnataka 575003
+
+Following is the array of religious event celebrated at the temple
+
+[{
+        day: "Day 1",
+        date: "22nd Sept 2025 (Monday)",
+        events: [
+            "8:30 am - Guru Prarthane, Punyaha Homa, NavaKalashabhisheka Dhanurlagna",
+            "11:00 am - Kalasha Prathisthapana",
+            "12:00 noon - Installation of Nava Durga & Sharada",
+            "12:30 pm - Pushpalankara Maha Pooja",
+            "7:00 – 8:15 pm - Bhajana Program",
+            "8:30 pm - Sri Devi Pushpalankara Maha Pooja  and Utsava",
+        ],
+    },
+    {
+        day: "Day 2",
+        date: "23rd Sept 2025 (Tuesday)",
+        events: [
+            "9:45 am - Durga Homa",
+            "12:30 pm - Pushpalankara Maha Pooja",
+            "7:00 – 8:15 pm - Bhajana Program",
+            "8:30 pm - Sri Devi Pushpalankara Maha Pooja  and Utsava",
+        ],
+    },
+    {
+        day: "Day 3",
+        date: "24th Sept 2025 (Wednesday)",
+        events: [
+            "9:45 am - Pancha Durga Homa",
+            "12:30 pm - Pushpalankara Maha Pooja",
+            "7:00 – 8:15 pm - Bhajana Program",
+            "8:30 pm - Sri Devi Pushpalankara Maha Pooja  and Utsava",
+        ],
+    },
+    {
+        day: "Day 4",
+        date: "25th Sept 2025 (Thursday)",
+        events: [
+            "9:45 am - Aarya Durga Homa",
+            "12:30 pm -  Pushpalankara Maha Pooja",
+            "7:00 – 8:15 pm - Bhajana Program",
+            "8:30 pm - Sri Devi Pushpalankara Maha Pooja  and Utsava",
+        ],
+    },
+    {
+        day: "Day 5",
+        date: "26th Sept 2025 (Friday)",
+        events: [
+            "9:45 am - Ambika Durga Homa",
+            "12:30 pm - Pushpalankara Maha Pooja",
+            "7:00 – 8:15 pm - Bhajana Program",
+            "8:30 pm - Sri Devi Pushpalankara Maha Pooja  and Utsava",
+        ],
+    },
+    {
+        day: "Day 6",
+        date: "27th Sept 2025 (Saturday)",
+        events: [
+            "9:45 am - Bhagavati Durga Homa",
+            "12:30 pm - Prarthana Mahotsava (Lalitha Panchami)",
+            "7:00 – 8:15 pm - Bhajana Program",
+            "8:30 pm - Sri Devi Pushpalankara Maha Pooja  and Utsava",
+        ],
+    },
+    {
+        day: "Day 7",
+        date: "28th Sept 2025 (Sunday)",
+        events: [
+            "9:00 am - Samuhika Chandika Homa",
+            "9:45 am - Kumari Durga Homa",
+            "12:30 pm - Pushpalankara Maha Pooja",
+            "7:00 – 8:15 pm - Bhajana Program",
+            "8:30 pm - Sri Devi Pushpalankara Maha Pooja  and Utsava",
+        ],
+    },
+    {
+        day: "Day 8",
+        date: "29th Sept 2025 (Monday)",
+        events: [
+            "9:45 am - Mahishamardhini Durga Homa",
+            "12:30 pm - Pushpalankara Maha Pooja",
+            "7:00 – 8:15 pm - Bhajana Program",
+            "8:30 pm - Sri Devi Pushpalankara Maha Pooja  and Utsava",
+        ],
+    },
+    {
+        day: "Day 9",
+        date: "30th Sept 2025 (Tuesday)",
+        events: [
+            "9:00 am - Chandika Homa Hagalotsava",
+            "12:30 pm - Pushpalankara Maha Pooja (Durgastami)",
+            "7:00 – 8:15 pm - Bhajana Program",
+            "8:30 pm - Sri Devi Pushpalankara Maha Pooja  and Utsava",
+        ],
+    },
+    {
+        day: "Day 10",
+        date: "1st Oct 2025 (Wednesday)",
+        events: [
+            "9:00 am - Saraswathi Homa",
+            "11:00 am - Shata Shiyalabhisheka",
+            "12:30 pm - Shiva Pooje (Mahanavami)",
+            "1:00 pm - Anna Santarpane",
+            "7:00 – 8:15 pm - Bhajana Program",
+            "8:30 pm - Sri Devi Pushpalankara Maha Pooja  and Utsava",
+        ],
+    },
+    {
+        day: "Day 11",
+        date: "2nd Oct 2025 (Thursday - Vijayadashami)",
+        events: [
+            "9:45 am - Vagishwari Durga Homa",
+            "12:30 pm - Shiva Pooje",
+            "4:00 pm - Shobha Yatra (Grand Procession)",
+        ],
+    },
+    {
+        day: "Day 12",
+        date: "3rd Oct 2025 (Friday)",
+        events: [
+            "4:00 am - Pooje Bali, Mantapa Bali",
+            "7:00 – 8:00 pm - Bhajana Program",
+            "8:00 pm - Gurupuja",
+        ],
+    },
+]
+
+Following is the array of cultural event celebrated at the temple
+
+[
+  {
+    day: "Day 1",
+    date: "22nd Sept 2025 (Monday)",
+    events: [
+      "4:00 pm - 5.30 pm – Bharata Natya by Natya Vidushi Smt. Vinuta Lakshmikant Jogi, Kadri and group",
+      "5.30 pm – 7.00 pm -  Natya Sambhrama by Kalamrita, Mangalore ",
+      "7.00 pm – 8.00 pm -  Inauguration of Dasara Mahotsav ",
+      "8.30 pm – 10.30 pm -  Nrityarupaka “Naarasimha” by Nritya  Niketan, Kodavoor ",
+    ],
+  },
+  {
+    day: "Day 2",
+    date: "23rd Sept 2025 (Tuesday)",
+    events: [
+      "4:00 pm - 6.00 pm – 'Mangalore Dasara Bahubhasha kavigoshti' co-ordinated by Ranga Sangaati Cultural Pratishtaan(Regd.), Mangalore ",
+      "6.00 pm – 8.00 pm -  Bharata Natya by 'Maatalu Krishna & Meenakshi Kalyana' by Nada Nritya School of Dance & Cultural Trust",
+      "8.30 pm – 10.30 pm -  'Alvas Cultural Vaibhav' by the students of Alvas Educational Institutions, Moodabidri",
+    ],
+  },
+  {
+    day: "Day 3",
+    date: "24th Sept 2025 (Wednesday)",
+    events: [
+      "4:00 pm - 6.00 pm – 'Suswara Raaga Sangama',  Saxophone & Flute Jugalbandhi by Shri Chandrashekar & Group, Mangalore",
+      "6.00 pm – 7.00 pm -  'Nritya Sambhrama' by Dance & Beats Bellare, Sullia ",
+      "7.00 pm – 10.30 pm -  'Dasara Rudra Tandavam' Cultural Pogramme Competition",
+    ],
+  },
+  {
+    day: "Day 4",
+    date: "25th Sept 2025 (Thursday)",
+    events: [
+      "4:00 pm - 5.00 pm – 'Samskratika Kala Vaibhava' by Gadinada Samskratika Kala Vedike (Regd.), Kasaragod",
+      "5.00 pm – 6.00 pm -  Nrityarupaka 'Jagattannu rakshisida Jaganmate' by Navashakti   Yuvaka   &   Mahila   Mandali   (Regd.) Bolpugudde, Kavoor, Mangalore ",
+      "6.00 pm – 8 pm -  'Saptasindhu & Mahashakti' by Arunodaya Kala Niketan & Vaishnavi Kalakshetra, Mumbai ",
+      "8.30 pm – 10.30 pm -  'Yaksha-Punduvesha-Vaibhava' by famous Yakshagana Artists",
+    ],
+  },
+  {
+    day: "Day 5",
+    date: "26th Sept 2025 (Friday)",
+    events: [
+      "4:00 pm - 6.00 pm – 'Natya Sinchana' by Natya Kalanjali, Muchooru.",
+      "6.00 pm – 8 pm -  'Amrita Vahini Sapta Veena vadana' by N J Gopal Moudgal Mahati Sangeeta School, Mangalore ",
+      "8.30 pm – 10.30 pm -  'Nritya Vaividhya' by Falkans Dance Creave, Bejai, Mangalore & Group",
+    ],
+  },
+  {
+    day: "Day 6",
+    date: "27th Sept 2025 (Saturday)",
+    events: [
+      "4:00 pm - 6.00 pm – 'Tala Maddale – Shambavi Vijaya' by Yaksha Sneha Balaga, Konchadi",
+      "6.00 pm – 8 pm -  'Nritya Siri-Samskratiya Sambhrama Bhavagala Namana' by students of Kadri Nritya Vidyanilaya, Padavinangadi Centre",
+      "8.30 pm – 10.30 pm -  'Navarasa Natya Lasya' by Group X Dance Academy, Suratkal",
+    ],
+  },
+  {
+    day: "Day 7",
+    date: "28th Sept 2025 (Sunday)",
+    events: [
+      "10.00 AM - Drawing Competition, Devotional Songs Competition &  Kinni Pili (Tiger) Competition",
+      "8.30 pm – 10.30 pm -  'S D M Kala Vaibhava' by S D M Educational Institution (Regd.), Ujire ",
+    ],
+  },
+  {
+    day: "Day 8",
+    date: "29th Sept 2025 (Monday)",
+    events: [
+      "4:00 pm - 6.00 pm – 'Harikatha Keerthane : Saptashati Shri Devi Mahatme' by Vidushi Smt Manjula G Rao Ira",
+      "6.00 pm – 7.30 pm -  'Natya Taranga' by Dr. Padmashri & students,  Kala Nidhi School of Dance, Mysore ",
+      "7.30 pm – 10.30 pm -  'Janapada Arts Anavarana, Janapada Nritya, Sangeeta-&- Musical Intruments Sammilana' by Janapada Vaibhava Kalamayam, Udupi ",
+    ],
+  },
+  {
+    day: "Day 9",
+    date: "30th Sept 2025 (Tuesday)",
+    events: [
+      "4:00 pm - 5.30 pm – 'Nrityaradhana Programme' by Vidushi Smt Swati Bhat & students. Durga Swati Nrityalaya, Asaigoli",
+      "5.30 pm – 8 pm -  'Yakshagana – Shri Devi Leelamritam' by Yakshagana Artists, Billava Association, Bangalore (Regd.)",
+      "8.30 pm – 10.30 pm -  'Nritya Sangama' by Gana Nritya Academy, Mangalore",
+    ],
+  },
+  {
+    day: "Day 10",
+    date: "1st Oct 2025 (Wednesday)",
+    events: [
+      "4:00 pm - 5.30 pm – 'Natyayana' by Brindavan Natyalaya, Puttur",
+      "6 pm – 7.30 pm -  'Yakshagana – Shri Krishna Leelamritam' by Ladies Yakshagana Artists, Billava Association, Bangalore (Regd.)",
+      "8.30 pm – 10.30 pm -  'Jaadu (Magic) & Mind Reading Programme' by Magician Aakarsh S Bhat",
+    ],
+  },
+]
